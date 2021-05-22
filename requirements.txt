@@ -1,0 +1,7 @@
+pandas
+statistics
+matplotlib.pyplot
+scipy.stats
+numpy
+sklearn
+sklearn.linear_model
